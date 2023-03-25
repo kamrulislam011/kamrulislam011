@@ -23,6 +23,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/kamrul-islam-abb04b20b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamrul islam" height="30" width="40" /></a>
 <a href="https://fb.com/AlokitoKamrul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamrul" height="30" width="40" /></a>
+  <a href="https://instagram.com/kamrul.islam011" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamrul" height="30" width="40" /></a>
+  <a href="https://twitter.com/@kamrulislam011" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamrul" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
