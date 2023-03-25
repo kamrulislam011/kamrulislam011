@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm kamrul</h1>
 <h3 align="center">A passionate frontend developer from Bangladesd</h3>
-
-![](https://www.canva.com/design/DAFePQxk2xg/PoEJEu-vi7D3MfnAXaeAPA/view?utm_content=DAFePQxk2xg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![](https://media.licdn.com/dms/image/D5616AQFvw5C4HCU-3A/profile-displaybackgroundimage-shrink_350_1400/0/1679779280149?e=1684972800&v=beta&t=2RSm6clSvysHivi7xknhsFBBKZE7-DWtqwig5i_bKTY)
 
 
 
